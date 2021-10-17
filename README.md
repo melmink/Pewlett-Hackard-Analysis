@@ -18,12 +18,12 @@ Pewlett-Hackard historically has used Excel and VBA, so all data is currently ho
 #### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The analysis of the number of employees who are within the retirement age range indicates that there could be up to 41,380 roles that will need to be filled. 
 
-# Insert CountTitles
+![Count of Titles](https://github.com/melmink/Pewlett-Hackard-Analysis/blob/c39cdbd2c45194c31d81d30ab0b9f3c9ff0fe89c/CountTitles.PNG)
 
 #### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are two departments that potentially do not have enough retirement-ready employees to mentor the next generation of Pewlett-Hackard employees, Technique Leader and Assitant Engineer.
 
-# Insert CountMETitles
+![Count of ME Titles](https://github.com/melmink/Pewlett-Hackard-Analysis/blob/c39cdbd2c45194c31d81d30ab0b9f3c9ff0fe89c/CountMETitles.PNG)
 
 #### Additional Query/Table 1
     - Count by Title of Mentorship Eligible employees
